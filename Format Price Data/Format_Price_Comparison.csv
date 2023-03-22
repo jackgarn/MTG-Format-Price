@@ -1,7 +1,7 @@
 Deck_Name,Paper_Price,MTGO_Price_Tix,Format
 Grixis Midrange,384.53,419.4699999999999,Standard
 Mono-White Midrange,280.8400000000001,254.83000000000004,Standard
-5 Color Midrange,505.99,759.4899999999998,Standard
+Standard 5 Color Midrange,505.99,759.4899999999998,Standard
 Mono-Red Aggro,91.68000000000004,103.09000000000002,Standard
 Esper Midrange,501.96,435.41,Standard
 Mono-Blue Tempo,44.34000000000001,21.98,Standard
@@ -14,18 +14,18 @@ Mardu Midrange,420.91,429.44999999999993,Standard
 Rakdos Aggro,419.19,474.0499999999998,Standard
 Domain Control,357.24,487.2799999999999,Standard
 Esper Aggro,451.9599999999999,364.99,Standard
-Rakdos Midrange,696.0600000000001,529.14,Pioneer
+Pioneer Rakdos Midrange,696.0600000000001,529.14,Pioneer
 Abzan Greasefang,509.28,325.15,Pioneer
 Nykthos Ramp,492.94000000000017,249.58,Pioneer
-Azorius Control,339.14,174.49,Pioneer
+Pioneer Azorius Control,339.14,174.49,Pioneer
 Temur Indomitable Creativity,594.83,387.53,Pioneer
 Lotus Field Combo,348.2699999999999,235.93,Pioneer
 Gruul Midrange,317.5300000000001,204.68999999999997,Pioneer
 Izzet Phoenix,386.96,201.65,Pioneer
-5 Color Midrange,539.6600000000001,467.6699999999997,Pioneer
+Pioneer 5 Color Midrange,539.6600000000001,467.6699999999997,Pioneer
 Selesnya Angels,554.56,225.49,Pioneer
 Mono-White Humans,275.59000000000003,227.6,Pioneer
-Dimir Control,318.74,153.81,Pioneer
+Pioneer Dimir Control,318.74,153.81,Pioneer
 Azorius Spirits,212.28,152.51999999999998,Pioneer
 5 Color Fires of Invention,683.9699999999997,443.6999999999998,Pioneer
 Mono-Red Goblins,161.14999999999998,114.43,Pioneer
@@ -37,8 +37,8 @@ Bant Spirits,290.99999999999994,107.26,Pioneer
 Izzet Murktide,974.11,568.5099999999999,Modern
 5 Color Indomitable Creativity,1157.9699999999998,826.23,Modern
 Hammer Time,763.1500000000001,292.5799999999999,Modern
-Rakdos Midrange,1026.9899999999998,693.21,Modern
-Burn,466.04,219.13,Modern
+Modern Rakdos Midrange,1026.9899999999998,693.21,Modern
+Modern Burn,466.04,219.13,Modern
 4 Color Omnath,1448.4199999999998,875.12,Modern
 Amulet Titan,951.98,530.79,Modern
 Golgari Yawgmoth,848.7200000000001,443.5700000000001,Modern
@@ -53,10 +53,10 @@ Jeskai Control,901.34,554.15,Modern
 5 Color Reanimator,896.4999999999999,747.2299999999999,Modern
 Mono-Blue Affinity,252.64,257.2,Modern
 Jeskai Prowess,546.0300000000001,202.81,Modern
-Azorius Control,949.49,555.6299999999999,Modern
-Burn,89.94000000000001,48.17,Pauper
+Modern Azorius Control,949.49,555.6299999999999,Modern
+Pauper Burn,89.94000000000001,48.17,Pauper
 Affinity,92.6,103.14,Pauper
-Dimir Control,132.47,42.13,Pauper
+Pauper Dimir Control,132.47,42.13,Pauper
 Mono-Blue Faeries,93.81000000000002,60.46000000000001,Pauper
 Orzhov Ephemerate,49.08,92.1,Pauper
 Gruul Ponza,53.15,97.08,Pauper
