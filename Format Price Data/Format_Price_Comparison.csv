@@ -1,77 +1,77 @@
-Deck_Name,Paper_Price,MTGO_Price_Tix,Format
-Grixis Midrange,384.53,419.4699999999999,Standard
-Mono-White Midrange,280.8400000000001,254.83000000000004,Standard
-Standard 5 Color Midrange,505.99,759.4899999999998,Standard
-Mono-Red Aggro,91.68000000000004,103.09000000000002,Standard
-Esper Midrange,501.96,435.41,Standard
-Mono-Blue Tempo,44.34000000000001,21.98,Standard
-Azorius Soldiers,117.57,85.81,Standard
-Selesnya Poison,214.62,240.2,Standard
-Jund Midrange,467.72,498.3799999999999,Standard
-Kami War,358.16,678.1099999999996,Standard
-Esper Legends,589.0699999999999,571.1599999999999,Standard
-Mardu Midrange,420.91,429.44999999999993,Standard
-Rakdos Aggro,419.19,474.0499999999998,Standard
-Domain Control,357.24,487.2799999999999,Standard
-Esper Aggro,451.9599999999999,364.99,Standard
-Pioneer Rakdos Midrange,696.0600000000001,529.14,Pioneer
-Abzan Greasefang,509.28,325.15,Pioneer
-Nykthos Ramp,492.94000000000017,249.58,Pioneer
-Pioneer Azorius Control,339.14,174.49,Pioneer
-Temur Indomitable Creativity,594.83,387.53,Pioneer
-Lotus Field Combo,348.2699999999999,235.93,Pioneer
-Gruul Midrange,317.5300000000001,204.68999999999997,Pioneer
-Izzet Phoenix,386.96,201.65,Pioneer
-Pioneer 5 Color Midrange,539.6600000000001,467.6699999999997,Pioneer
-Selesnya Angels,554.56,225.49,Pioneer
-Mono-White Humans,275.59000000000003,227.6,Pioneer
-Pioneer Dimir Control,318.74,153.81,Pioneer
-Azorius Spirits,212.28,152.51999999999998,Pioneer
-5 Color Fires of Invention,683.9699999999997,443.6999999999998,Pioneer
-Mono-Red Goblins,161.14999999999998,114.43,Pioneer
-Mono-Blue Spirits,128.21,124.9,Pioneer
-Rakdos Sacrifice,377.69,320.2399999999999,Pioneer
-4 Color Auras,302.23,183.71000000000004,Pioneer
-Mono-Black Midrange,458.62,370.1199999999999,Pioneer
-Bant Spirits,290.99999999999994,107.26,Pioneer
-Izzet Murktide,974.11,568.5099999999999,Modern
-5 Color Indomitable Creativity,1157.9699999999998,826.23,Modern
-Hammer Time,763.1500000000001,292.5799999999999,Modern
-Modern Rakdos Midrange,1026.9899999999998,693.21,Modern
-Modern Burn,466.04,219.13,Modern
-4 Color Omnath,1448.4199999999998,875.12,Modern
-Amulet Titan,951.98,530.79,Modern
-Golgari Yawgmoth,848.7200000000001,443.5700000000001,Modern
-Domain Zoo,705.44,328.34,Modern
-Mono-Green Tron,448.34,214.91000000000005,Modern
-Dimir Mill,520.9200000000001,214.00000000000003,Modern
-Generic Ragavan,1005.24,554.71,Modern
-Living End,688.0999999999998,379.44,Modern
-Merfolk,755.5000000000001,301.88,Modern
-Death's Shadow,947.01,417.74999999999983,Modern
-Jeskai Control,901.34,554.15,Modern
-5 Color Reanimator,896.4999999999999,747.2299999999999,Modern
-Mono-Blue Affinity,252.64,257.2,Modern
-Jeskai Prowess,546.0300000000001,202.81,Modern
-Modern Azorius Control,949.49,555.6299999999999,Modern
-Pauper Burn,89.94000000000001,48.17,Pauper
-Affinity,92.6,103.14,Pauper
-Pauper Dimir Control,132.47,42.13,Pauper
-Mono-Blue Faeries,93.81000000000002,60.46000000000001,Pauper
-Orzhov Ephemerate,49.08,92.1,Pauper
-Gruul Ponza,53.15,97.08,Pauper
-Familiars,56.8,74.85000000000001,Pauper
-Boros Synthesizer,53.44,62.56000000000001,Pauper
-Mono-Red Synthesizer,79.63999999999999,34.03,Pauper
-Walls Combo,24.83000000000001,28.73,Pauper
-Tron,78.96000000000001,23.66,Pauper
-Caw Gates,82.72,107.61,Pauper
-4 Color Ephemerate,81.94999999999999,86.44000000000001,Pauper
-Ephemerate Tron,75.85999999999999,70.07000000000001,Pauper
-Bogles,98.83,64.55000000000001,Pauper
-Kiln Fiend,72.61,47.90000000000001,Pauper
-Boros Bully,46.08,63.53,Pauper
-Izzet Faeries,72.47000000000001,64.30000000000001,Pauper
-Goblins,59.49,60.27,Pauper
-Slivers,20.83,64.55,Pauper
-Jeskai Ephemerate,74.32999999999998,66.75,Pauper
+Deck_Name,Format,Paper_Price,MTGO_Price_Tix
+Burn,Pauper,82.46,43.790000000000006
+Affinity,Pauper,90.66999999999999,103.8
+Dimir Control,Pauper,129.45000000000002,43.57
+Mono-Blue Faeries,Pauper,95.00000000000003,61.370000000000005
+Orzhov Ephemerate,Pauper,49.14000000000001,88.98000000000002
+Gruul Ponza,Pauper,52.23,86.65000000000002
+Familiars,Pauper,55.35,75.54
+Boros Synthesizer,Pauper,48.32000000000001,59.919999999999995
+Mono-Red Synthesizer,Pauper,71.77999999999999,30.6
+Walls Combo,Pauper,24.87,28.35
+Tron,Pauper,61.86,15.449999999999998
+Caw Gates,Pauper,76.9,103.03
+4 Color Ephemerate,Pauper,76.97999999999999,83.03
+Ephemerate Tron,Pauper,75.09,69.10000000000001
+Bogles,Pauper,98.39999999999999,65.1
+Kiln Fiend,Pauper,70.98000000000002,47.00000000000001
+Boros Bully,Pauper,41.67,59.22
+Izzet Faeries,Pauper,68.90999999999998,59.879999999999995
+Goblins,Pauper,58.339999999999996,59.71
+Slivers,Pauper,20.32,63.169999999999995
+Jeskai Ephemerate,Pauper,70.44,65.19
+Grixis Midrange,Standard,376.64,390.8599999999999
+Mono-White Midrange,Standard,275.22,247.98999999999998
+5 Color Midrange,Standard,488.66,738.3100000000001
+Mono-Red Aggro,Standard,86.9,95.28
+Esper Midrange,Standard,501.94000000000005,422.28000000000003
+Mono-Blue Tempo,Standard,31.710000000000004,17.5
+Azorius Soldiers,Standard,88.31000000000003,73.46
+Selesnya Poison,Standard,215.79999999999995,234.10000000000002
+Jund Midrange,Standard,459.42999999999995,461.3999999999999
+Kami War,Standard,358.8500000000001,677.5599999999998
+Esper Legends,Standard,598.68,556.81
+Mardu Midrange,Standard,388.1000000000001,415.84
+Rakdos Aggro,Standard,428.84999999999997,467.53999999999996
+Domain Control,Standard,322.73999999999995,483.32999999999987
+Esper Aggro,Standard,427.29999999999995,343.05
+Rakdos Midrange,Pioneer,702.6499999999999,509.4799999999999
+Abzan Greasefang,Pioneer,508.79,323.95
+Nykthos Ramp,Pioneer,483.88,246.53000000000003
+Azorius Control,Pioneer,336.22999999999996,174.82
+Temur Indomitable Creativity,Pioneer,588.6900000000002,370.36999999999995
+Lotus Field Combo,Pioneer,340.65999999999997,233.78000000000006
+Gruul Midrange,Pioneer,314.24,203.25
+Izzet Phoenix,Pioneer,375.35,192.92000000000002
+5 Color Midrange,Pioneer,520.5,455.72999999999985
+Selesnya Angels,Pioneer,527.66,230.43000000000006
+Mono-White Humans,Pioneer,275.7200000000001,220.45999999999998
+Dimir Control,Pioneer,319.92,154.66999999999996
+Azorius Spirits,Pioneer,194.07999999999998,146.49
+5 Color Fires of Invention,Pioneer,684.0500000000001,441.97999999999973
+Mono-Red Goblins,Pioneer,132.55,61.470000000000006
+Mono-Blue Spirits,Pioneer,126.75000000000001,123.16
+Rakdos Sacrifice,Pioneer,365.07,290.8800000000001
+4 Color Auras,Pioneer,299.37000000000006,183.84000000000006
+Mono-Black Midrange,Pioneer,464.96000000000004,358.9399999999999
+Bant Spirits,Pioneer,279.92,99.47000000000003
+Izzet Murktide,Modern,841.1099999999998,469.38999999999993
+5 Color Indomitable Creativity,Modern,1139.94,662.4300000000001
+Hammer Time,Modern,751.26,284.6299999999999
+Rakdos Midrange,Modern,1032.5900000000001,667.9700000000001
+Burn,Modern,456.37000000000006,214.34
+4 Color Omnath,Modern,1386.0800000000002,701.8999999999999
+Amulet Titan,Modern,948.4400000000002,534.01
+Golgari Yawgmoth,Modern,738.4300000000001,419.73
+Domain Zoo,Modern,689.9200000000002,253.39000000000001
+Mono-Green Tron,Modern,407.06999999999994,209.83
+Dimir Mill,Modern,492.42,194.49999999999997
+Generic Ragavan,Modern,868.0199999999999,480.6
+Living End,Modern,689.44,370.36999999999995
+Merfolk,Modern,751.8800000000001,289.90000000000003
+Death's Shadow,Modern,942.7,401.5699999999999
+Jeskai Control,Modern,772.9300000000002,489.17999999999995
+5 Color Reanimator,Modern,766.5500000000002,691.8799999999998
+Mono-Blue Affinity,Modern,252.56,259.37999999999994
+Jeskai Prowess,Modern,535.3799999999999,186.8
+Azorius Control,Modern,816.2299999999999,491.74000000000007
