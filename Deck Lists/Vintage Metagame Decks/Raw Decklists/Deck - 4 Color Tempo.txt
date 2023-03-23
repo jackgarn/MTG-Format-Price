@@ -1,0 +1,38 @@
+1 Badlands
+1 Boseiju, Who Endures
+1 Brainstorm
+3 Collector Ouphe
+2 Dack Fayden
+4 Deathrite Shaman
+1 Demonic Tutor
+1 Dress Down
+2 Expressive Iteration
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gitaxian Probe
+1 Mental Misstep
+2 Minsc & Boo, Timeless Heroes
+1 Narset, Parter of Veils
+3 Oko, Thief of Crowns
+4 Polluted Delta
+1 Ponder
+2 Pyroblast
+3 Ragavan, Nimble Pilferer
+4 Scalding Tarn
+1 Strip Mine
+1 Treasure Cruise
+2 Tropical Island
+1 Underground Sea
+2 Volcanic Island
+4 Wasteland
+3 Wrenn and Six
+
+1 Energy Flux
+1 Force of Negation
+3 Force of Vigor
+2 Fury
+4 Leyline of the Void
+1 Null Rod
+2 Pyroblast
+1 Surgical Extraction
