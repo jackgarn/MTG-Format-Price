@@ -1,0 +1,40 @@
+1 Blast Zone
+1 Bojuka Bog
+1 Boseiju, Who Endures
+4 Crop Rotation
+2 Dark Depths
+4 Elvish Reclaimer
+2 Endurance
+2 Expedition Map
+4 Exploration
+1 Forest
+1 Ghost Quarter
+2 Grove of the Burnwillows
+1 Ipnu Rivulet
+1 Karakas
+4 Life from the Loam
+2 Lightning Bolt
+2 Maze of Ith
+1 Misty Rainforest
+4 Mox Diamond
+1 Otawara, Soaring City
+1 Punishing Fire
+1 Slogurk, the Overslime
+2 Taiga
+1 The Tabernacle at Pendrell Vale
+3 Thespian's Stage
+1 Tropical Island
+3 Urza's Saga
+4 Wasteland
+1 Windswept Heath
+1 Wooded Foothills
+1 Yavimaya, Cradle of Growth
+
+2 Flusterstorm
+3 Force of Vigor
+1 Hydroblast
+2 Pyroblast
+1 Red Elemental Blast
+2 Sphere of Resistance
+2 Surgical Extraction
+2 Thorn of Amethyst

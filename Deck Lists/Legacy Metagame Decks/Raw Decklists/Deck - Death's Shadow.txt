@@ -1,0 +1,35 @@
+4 Baleful Strix
+3 Bloodstained Mire
+4 Brainstorm
+1 Brazen Borrower
+4 Daze
+4 Death's Shadow
+1 Dress Down
+1 Fatal Push
+4 Force of Will
+2 Hymn to Tourach
+1 Island
+2 Misty Rainforest
+3 Murktide Regent
+3 Polluted Delta
+4 Ponder
+1 Reanimate
+3 Snuff Out
+2 Street Wraith
+1 Swamp
+4 Thoughtseize
+2 Underground Sea
+3 Wasteland
+3 Watery Grave
+
+2 Blue Elemental Blast
+1 Court of Cunning
+1 Engineered Explosives
+1 Grafdigger's Cage
+1 Hydroblast
+1 Plague Engineer
+1 Ratchet Bomb
+1 Submerge
+3 Surgical Extraction
+2 Tourach, Dread Cantor
+1 Toxic Deluge

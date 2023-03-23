@@ -1,0 +1,40 @@
+1 Batterskull
+2 Bayou
+1 Birds of Paradise
+1 Dryad Arbor
+2 Endurance
+2 Forest
+1 Gaea's Cradle
+4 Green Sun's Zenith
+1 Grist, the Hunger Tide
+1 Horizon Canopy
+1 Kaldra Compleat
+1 Karakas
+3 Knight of the Reliquary
+2 Mother of Runes
+3 Noble Hierarch
+3 Once Upon a Time
+1 Outland Liberator
+1 Plains
+2 Prismatic Ending
+2 Savannah
+1 Scrubland
+1 Scryb Ranger
+3 Stoneforge Mystic
+4 Swords to Plowshares
+3 Thalia, Guardian of Thraben
+1 Umezawa's Jitte
+1 Undermountain Adventurer
+3 Verdant Catacombs
+4 Wasteland
+4 Windswept Heath
+
+2 Choke
+1 Collector Ouphe
+2 Deafening Silence
+1 Endurance
+2 Force of Vigor
+1 Kaya, Orzhov Usurper
+4 Leyline of the Void
+1 Opposition Agent
+1 Plague Engineer
